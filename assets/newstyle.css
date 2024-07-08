@@ -210,6 +210,18 @@ footer {
 }
 
 
+/*ABOUT page*/
+.about-row {
+  margin: 20px 40px;
+  padding: 10px;
+  font-size: 20px;
+}
+
+.about-item {
+  margin:15px;
+}
+
+
 @media screen and (min-width: 768px) {
   nav ul li {            
     font-size: 30px;
