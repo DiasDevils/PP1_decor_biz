@@ -49,8 +49,15 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-  background-color: #134d4b;    /* Darker background on hover */
+  background-color: blanchedalmond; 
+  color:#15695e   /* Darker background on hover */
 }
+
+.active {
+  border-bottom: 4px solid #fff;
+  margin:0px;
+}
+
 
 /*making sure the h1 at the top is visble and not eaten by navbar
 https://stackoverflow.com/questions/33639304/body-content-eaten-by-navigation-bar 
