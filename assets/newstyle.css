@@ -215,10 +215,12 @@ footer {
   margin: 20px 40px;
   padding: 10px;
   font-size: 20px;
+  text-align: justify;
 }
 
 .about-item {
   margin:15px;
+
 }
 
 
