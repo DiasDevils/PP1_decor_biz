@@ -1,0 +1,152 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+/* navbar header style */
+header {
+  background-color: #15695e;
+  color: #fff;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+  display: flex;
+  justify-content: space-evenly;
+  /* Center align items horizontally */
+  list-style-type: none;
+  /* Remove default list styles */
+  padding: 0;
+  /* Remove default padding */
+  border: 4px solid rgb(134, 103, 4);
+  /* padding: 10px 0; */
+  /* left: 0; */
+}
+
+/*making sure the h1 at the top is visble and not eaten by navbar
+https://stackoverflow.com/questions/33639304/body-content-eaten-by-navigation-bar 
+making pic side by side with text
+https://stackoverflow.com/questions/17219757/how-to-place-text-and-an-image-next-to-each-other-in-html*/
+
+body {
+  margin: 60px 0 40px 0;
+  background-color: blanchedalmond;
+  color: rgb(132, 96, 6);
+}
+
+main h1 {
+  text-align: center;
+  margin: 20px, 0;
+  /*new*/
+}
+
+/* Container for rows of images and text */
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  /* Space between rows */
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+/* Styling for each row (image-text pair) */
+.container>div {
+  display: flex;
+  align-items: center;
+  /* Vertically center content */
+  gap: 20px;
+  /* Space between image and text */
+  flex-wrap: wrap;
+  /* Allow wrapping for smaller screens */
+}
+
+.image1,
+.image3,
+.image4,
+.image2 {
+  flex: 1;
+  /* Allow image to take up appropriate space */
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
+
+.text1,
+.text2,
+.text3,
+.text4 {
+  flex: 1;
+  /* Allow text to take up appropriate space */
+  font-size: 1em;
+  padding: 10px;
+  text-align: justify;
+  overflow: hidden; /* Hide any overflow text */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: auto; /* Make height responsive */
+  max-height: 100%;
+}
+
+
+
+/* Specific alignment for alternating rows */
+.image1,
+.image3 {
+  order: 1;
+  /* Place image first */
+}
+
+.text1,
+.text3 {
+  order: 2;
+  /* Place text second */
+}
+
+.text2,
+.text4 {
+  order: 1;
+  /* Place text first */
+}
+
+.image2,
+.image4 {
+  order: 2;
+  /* Place image second */
+}
+
+
+.image1 img,
+.image2 img,
+.image3 img,
+.image4 img {
+  max-width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+
+/* Footer */
+footer {
+  background-color: #15695e;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+  position: fixed;
+  bottom: 0;
+  /* left: 0; */
+  width: 100%;
+  z-index: 1000;
+  border: 4px solid rgb(134, 103, 4);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  /* margin-bottom: 20px; */
+  height: 60px;
+  /* Define a fixed height for the footer */
+}
