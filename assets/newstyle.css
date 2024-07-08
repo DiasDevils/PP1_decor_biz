@@ -262,5 +262,31 @@ footer {
 .about-item {
   margin:15px;
 }
+.text1,
+.text2,
+.text3,
+.text4 {
+  flex: 1;
+  /* Allow text to take up appropriate space CHAT GPT */
+  font-size: 0.7rem;
+  padding: 10px;
+  text-align: justify;
+  overflow: hidden; /* Hide any overflow text */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: auto; /* Make height responsive */
+  max-height: 100%;
+}
+/*CHAT GPT*/
+.image1 img,
+.image2 img,
+.image3 img,
+.image4 img {
+  max-width: 85%;
+  height: auto;
+  object-fit: cover;
+}
+
 }
 
