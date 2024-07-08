@@ -4,7 +4,9 @@
   box-sizing: border-box;
 }
 
-
+.head {
+  margin-top: 7rem;
+}
 /* navbar header style */
 header {
   background-color: #15695e;
@@ -23,7 +25,7 @@ header {
   border: 4px solid rgb(134, 103, 4);
   /* padding: 10px 0; */
   /* left: 0; */
-  height: 60px;
+  height: fit-content;
 }
 
 /* vavigational bar*/
@@ -39,7 +41,7 @@ nav ul {
 
 nav ul li {
   margin: 0 15px;               /* Add space between nav items */
-  font-size: large;
+  font-size: 48px;
 }
 
 nav ul li a {
@@ -78,7 +80,8 @@ main h1 {
   /*new*/
 }
 
-/* Container for rows of images and text */
+
+/* Container for rows of images and text CHAT GPT */
 .container {
   display: flex;
   flex-direction: column;
@@ -88,7 +91,7 @@ main h1 {
   box-sizing: border-box;
 }
 
-/* Styling for each row (image-text pair) */
+/* Styling for each row (image-text pair) CHAT GPT*/
 .container>div {
   display: flex;
   align-items: center;
@@ -104,7 +107,7 @@ main h1 {
 .image4,
 .image2 {
   flex: 1;
-  /* Allow image to take up appropriate space */
+  /* Allow image to take up appropriate space CHAT GPT*/
   display: flex;
   align-items: center;
   height: 100%;
@@ -116,7 +119,7 @@ main h1 {
 .text3,
 .text4 {
   flex: 1;
-  /* Allow text to take up appropriate space */
+  /* Allow text to take up appropriate space CHAT GPT */
   font-size: 1em;
   padding: 10px;
   text-align: justify;
@@ -130,7 +133,7 @@ main h1 {
 
 
 
-/* Specific alignment for alternating rows */
+/* Specific alignment for alternating rows CHAT GPT */
 .image1,
 .image3 {
   order: 1;
@@ -140,22 +143,22 @@ main h1 {
 .text1,
 .text3 {
   order: 2;
-  /* Place text second */
+  /* Place text second  CHAT GPT*/
 }
 
 .text2,
 .text4 {
   order: 1;
-  /* Place text first */
+  /* Place text first CHAT GPT */
 }
 
 .image2,
 .image4 {
   order: 2;
-  /* Place image second */
+  /* Place image second CHAT GPT*/
 }
 
-
+/*CHAT GPT*/
 .image1 img,
 .image2 img,
 .image3 img,
@@ -170,7 +173,7 @@ main h1 {
 footer {
   background-color: #15695e;
   color: #fff;
-  text-align: center;
+  text-align: space;
   padding: 10px 0;
   position: fixed;
   bottom: 0;
@@ -187,20 +190,56 @@ footer {
   /* Define a fixed height for the footer */
 }
 
-/* Social networks styling */
+/* Social networks styling LOVE RUNNING*/
 #social-networks {
   display: flex;
   justify-content: space-evenly;
   list-style-type: none;
   padding: 0;
-
+  width:100%;
 }
 
 #social-networks li {
-  margin: 0 10px; /* Adjust margin between items */
+  margin: 0 10px; /* Adjust margin between items*/
+
 }
 
 #social-networks li a {
   color: #fff;
-  font-size: 24px;
+  font-size: 48px;
 }
+
+
+@media screen and (min-width: 768px) {
+  nav ul li {            
+    font-size: 30px;
+  }
+  #social-networks li a {
+    color: #fff;
+    font-size: 30px;
+  }
+  
+}
+
+/* Large devices (laptops and desktops, 992px and up) */
+@media screen and (min-width: 992px) {
+  nav ul li {            
+    font-size: 24px;
+  }
+  #social-networks li a {
+    color: #fff;
+    font-size: 24px;
+  }
+  
+}
+
+
+@media screen and (min-width: 1200px) {    
+  nav ul li {            
+    font-size: 20px;
+  }
+  #social-networks li a {
+    color: #fff;
+    font-size: 20px;
+  }
+  }
