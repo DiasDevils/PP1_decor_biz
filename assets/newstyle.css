@@ -40,7 +40,7 @@ nav ul {
 }
 
 nav ul li {
-  margin: 0 15px;               /* Add space between nav items */
+  margin: 0 50px;               /* Add space between nav items */
   font-size: 48px;
 }
 
@@ -232,14 +232,3 @@ footer {
   }
   
 }
-
-
-@media screen and (min-width: 1200px) {    
-  nav ul li {            
-    font-size: 20px;
-  }
-  #social-networks li a {
-    color: #fff;
-    font-size: 20px;
-  }
-  }
