@@ -25,6 +25,33 @@ header {
   /* left: 0; */
 }
 
+/* vavigational bar*/
+nav ul {
+  display: flex;                /* Align items in a row */
+  justify-content: space-evenly; /* Distribute space evenly */
+  align-items: center;          /* Center items vertically */
+  list-style: none;             /* Remove bullet points */
+  padding: 0;
+  margin: 0;
+  width: 100%;                  /* Stretch nav items to fill width */
+}
+
+nav ul li {
+  margin: 0 15px;               /* Add space between nav items */
+}
+
+nav ul li a {
+  text-decoration: none;        /* Remove underline from links */
+  color: #fff;                  /* Set link color */
+  display: inline-block;        /* Allow padding and margin to be applied */
+  padding: 10px 20px;           /* Add padding for better click area */
+  transition: background-color 0.3s; /* Smooth transition for hover effect */
+}
+
+nav ul li a:hover {
+  background-color: #134d4b;    /* Darker background on hover */
+}
+
 /*making sure the h1 at the top is visble and not eaten by navbar
 https://stackoverflow.com/questions/33639304/body-content-eaten-by-navigation-bar 
 making pic side by side with text
