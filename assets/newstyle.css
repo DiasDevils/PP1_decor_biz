@@ -219,8 +219,7 @@ footer {
 }
 
 .about-item {
-  margin:15px;
-
+  margin:25px;
 }
 
 
@@ -232,7 +231,16 @@ footer {
     color: #fff;
     font-size: 30px;
   }
-  
+  /*ABOUT page*/
+.about-row {
+  margin: 20px 40px;
+  padding: 10px;
+  font-size: 20px;
+  text-align: justify;
+}
+.about-item {
+  margin:15px;
+}
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
@@ -244,6 +252,15 @@ footer {
     color: #fff;
     font-size: 24px;
   }
-  
+    /*ABOUT page*/
+.about-row {
+  margin: 15px 40px;
+  padding: 10px;
+  font-size: 18px;
+  text-align: justify;
+}
+.about-item {
+  margin:15px;
+}
 }
 
