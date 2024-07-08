@@ -14,24 +14,67 @@ header {
     width: 100%;
     z-index: 1000;
     display: flex;
-    justify-content: space-evenly;   /* Center align items horizontally */
-    list-style-type: none; /* Remove default list styles */
-    padding: 0;     /* Remove default padding */
+    justify-content: space-evenly;
+    /* Center align items horizontally */
+    list-style-type: none;
+    /* Remove default list styles */
+    padding: 0;
+    /* Remove default padding */
     border: 4px solid rgb(134, 103, 4);
     /* padding: 10px 0; */
-     /* left: 0; */
+    /* left: 0; */
 }
 
 /*making sure the h1 at the top is visble and not eaten by navbar
 https://stackoverflow.com/questions/33639304/body-content-eaten-by-navigation-bar */
 
 body {
-    margin:60px 0 40px 0;
-  }
+    margin: 60px 0 40px 0;
+}
 
 main h1 {
     text-align: center;
 }
+
+.container {
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 5px;
+    height: 100vh;
+    /* Optional: Makes the container fill the viewport height */
+    /* padding: 20px; */
+    /* Optional: Adds some padding around the container */
+    box-sizing: border-box;
+    /* Ensures padding is included in element's total width/height */
+}
+
+.image img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+    /* Ensures the image covers the available space without distortion */
+}
+
+.text h2 {
+    /* font-size: 4.35px; */
+    font-size: 1em;
+    /* Ensures the text is responsive */
+    margin: 0;
+    /* Removes default margin */
+    padding: 20px; /* Optional: Adds padding for better readability */
+    text-align: justify; /* Justifies text for a cleaner look */
+}
+.image,
+.text {
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    /* Ensures content doesn't overflow */
+    height: 100%;
+}
+
 /* Footer */
 footer {
     background-color: #15695e;
