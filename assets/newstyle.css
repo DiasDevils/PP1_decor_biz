@@ -233,6 +233,10 @@ footer {
     margin-top:10px;
   }
 
+  .contact-item >h2 {
+    /* border :1px solid rgb(134, 103, 4);  */
+    text-decoration: underline rgb(134, 103, 4);
+  }
 
 @media screen and (min-width: 768px) {
   nav ul li {            
@@ -279,9 +283,13 @@ footer {
 }
 .contact-item>h2 {
   font-size: 35px;
+  margin-bottom: 1rem;
+  margin-top:1rem;
 }
 }
-
+.contact-item{
+  line-height: 4rem;
+}
 
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
