@@ -6,6 +6,7 @@
 
 .head {
   margin-top: 7rem;
+  text-decoration: underline rgb(134, 103, 4);
 }
 /* navbar header style */
 header {
@@ -280,17 +281,21 @@ footer {
 .thanku h3 {
   margin-top:15px;
   margin-bottom:25px;
+  font-size: 38px;
 }
 .contact-item>h2 {
   font-size: 35px;
   margin-bottom: 1rem;
   margin-top:1rem;
 }
-}
-.contact-item{
+/* .contact-item{
   line-height: 4rem;
-}
+} */
 
+#con>h1{
+  font-size: 39px;
+}
+}
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
   nav ul li {            
