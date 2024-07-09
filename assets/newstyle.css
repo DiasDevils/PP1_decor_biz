@@ -220,6 +220,7 @@ footer {
 
 .about-item {
   margin:45px 5px;
+  margin-top: 4rem;
 }
 
   .thanku > h3 {
@@ -250,7 +251,9 @@ footer {
 }
 .about-item {
   margin:20px 5px;
+  margin-top: 3rem;
 }
+
 /*CONTACT page */
 #con >h1 {
   margin-bottom: 30px;
@@ -271,9 +274,14 @@ footer {
   align-content: center;
 }
 .thanku h3 {
-  margin-top:30px;
-  margin-bottom:50px;
+  margin-top:15px;
+  margin-bottom:25px;
 }
+.contact-item>h2 {
+  font-size: 35px;
+}
+}
+
 
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
@@ -357,15 +365,26 @@ footer {
 }
 }
 
+
 @media screen and (min-width: 1020px) {
   #con >h1 {
     margin-bottom: 2px;
     margin-top:10px;
-    font-size: 30px;
+    font-size: 20px;
   }
   .thanku > h3 {
-    margin-bottom:10px;
-    font-size: 25px;
+    margin-bottom:20px;
+    font-size: 20px;
   }
+  .contact-item>h2 {
+    font-size: 22px;
+  }
+  #h1about{
+    margin-top: 5rem;
+  }
+ .about-row{
+  margin-top: 0.01rem;
+ }
 
+ 
   }
