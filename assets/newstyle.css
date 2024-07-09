@@ -223,13 +223,34 @@ footer {
 }
 
 /*CONTACT page */
-.contact-row {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-evenly;
+#con >h1 {
+  margin-bottom: 30px;
 }
+main {
+  height: 100%;
+  margin: 20px;
+  display: grid;
+  place-items: center;
+  width: 100%;
+  font-size: 34px;
+  text-align: center;
+  background-color: blanchedalmond;
+  line-height: 1.5;
+}
+.contact-row {
+  border: 2px solid rgb(228, 207, 174);
+  align-content: center;
+}
+.thanku h2,h3 {
+  margin-top:50px;
+}
+/* .contact-row {
+  display: flex; 
+  flex-wrap: wrap; */
+  /* justify-content: center;
+  width: fit-content; } */
 
-.contact-item {
+/* .contact-item {
   width: calc(50% - 20px);
   margin: 10px;
   padding: 20px;
@@ -246,7 +267,7 @@ footer {
   text-justify: distribute-all-lines;
   color: rgb(134, 103, 4);
   font-weight: bold;
-}  
+}   */
 
 
 @media screen and (min-width: 768px) {
