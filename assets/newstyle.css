@@ -222,30 +222,15 @@ footer {
   margin:45px 5px;
 }
 
-/*CONTACT page */
-#con >h1 {
-  margin-bottom: 30px;
-}
-.contact {
-  height: 100%;
-  margin: 20px;
-  display: grid;
-  place-items: center;
-  width: 100%;
-  font-size: 34px;
-  text-align: center;
-  background-color: blanchedalmond;
-  line-height: 1.5;
-}
-.contact-row {
-  border: 2px solid rgb(228, 207, 174);
-  align-content: center;
-}
-.thanku h3 {
-  margin-top:10px;
-  margin-bottom:50px;
-}
-
+  .thanku > h3 {
+    margin-bottom: 30px;
+    margin-top: 10px;
+  }
+  
+  #con >h1 {
+    margin-bottom: 30px;
+    margin-top:10px;
+  }
 
 
 @media screen and (min-width: 768px) {
@@ -266,15 +251,28 @@ footer {
 .about-item {
   margin:20px 5px;
 }
-.thanku > h3 {
-  margin-bottom: 30px;
-  margin-top: 10px;
-}
-
+/*CONTACT page */
 #con >h1 {
   margin-bottom: 30px;
-  margin-top:10px;
 }
+.contact {
+  height: 100%;
+  margin: 20px;
+  display: grid;
+  place-items: center;
+  width: 100%;
+  font-size: 34px;
+  text-align: center;
+  background-color: blanchedalmond;
+  line-height: 1.5;
+}
+.contact-row {
+  border: 2px solid rgb(228, 207, 174);
+  align-content: center;
+}
+.thanku h3 {
+  margin-top:30px;
+  margin-bottom:50px;
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
@@ -359,3 +357,15 @@ footer {
 }
 }
 
+@media screen and (min-width: 1020px) {
+  #con >h1 {
+    margin-bottom: 2px;
+    margin-top:10px;
+    font-size: 30px;
+  }
+  .thanku > h3 {
+    margin-bottom:10px;
+    font-size: 25px;
+  }
+
+  }
