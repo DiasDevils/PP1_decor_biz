@@ -390,7 +390,8 @@ footer {
     font-size: 20px;
   }
   .contact-item>h2 {
-    font-size: 22px;
+    font-size: 20px;
+    margin-top: 0px;
   }
   #h1about{
     margin-top: 5rem;
