@@ -50,24 +50,22 @@ I had a lof of difficulties, especially with resizing for each device. I am awar
 Also the social media links open on the same site, instead of in a different tab.
 
 I had struggled understanding concepts and working things out to the point that I had tried two other projects prior to this one.
-First I had tried applying the knowledge from the Love Running code from
-https://github.com/Code-Institute-Solutions/love-running-v3/
-for a music band website, link here:
-https://github.com/DiasDevils/Music_Band 
-and afterwards I tried code from https://github.com/D0nni387/flex-demo 
-and applied it to this site: https://diasdevils.github.io/Various_Business/
+First I had tried applying the knowledge from the Love Running code
+* from https://github.com/Code-Institute-Solutions/love-running-v3/
+* for My music band project https://github.com/DiasDevils/Music_Band 
+* and after i tried code from https://github.com/D0nni387/flex-demo 
+* and applied to My Project https://diasdevils.github.io/Various_Business/
 
 # REFERENCES AND CREDITS
 I finally made this project taking code from all the cources named above and Chat GPT aid as well.
 I used the following:
-https://jigsaw.w3.org/css-validator/validator
-https://validator.w3.org/
-https://favicon.io/
-https://fontawesome.com/kits
-Code credit to:
-https://github.com/Code-Institute-Solutions/love-running-v3/
-https://github.com/D0nni387/flex-demo 
-Chat GPT 
+* https://jigsaw.w3.org/css-validator/validator
+* https://validator.w3.org/
+* https://favicon.io/
+* https://fontawesome.com/kits
+* code Credit to 1- https://github.com/Code-Institute-Solutions/love-running-v3/
+* 2- https://github.com/D0nni387/flex-demo 
+* 3- Chat GPT 
 
 
 Photos from Pexel.com with credits for the photos going to Heyho, Andreaedavis, Charlotte May, Ben Mack, Falling4utah, Jonathan Borba, Ksenia Chernaya, Oktay Koseoglu, Orlov Maria, Skylar Kang.
