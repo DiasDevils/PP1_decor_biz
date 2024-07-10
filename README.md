@@ -41,4 +41,31 @@ I have validated once more to show the validation in SCC and since I did not fix
 
 
 # BUGS
-I had a lof of bugs, especially with resizing. I am aware that the website size home pages does not look great but I am not sure how to edit it for better viewer experience.
+I had a lof of difficulties, especially with resizing for each device. I am aware that the website size home page does not look great in terms of size and could look better but I am not sure how to make it better for a more enjoyable viewer experience.
+Also the social media links open on the same site, instead of in a different tab.
+
+I had struggled understanding concepts and working things out to the point that I had tried two other projects prior to this one.
+First I had tried applying the knowledge from the Love Running code from
+https://github.com/Code-Institute-Solutions/love-running-v3/
+for a music band website, link here:
+https://github.com/DiasDevils/Music_Band 
+and afterwards I tried code from https://github.com/D0nni387/flex-demo 
+and applied it to this site: https://diasdevils.github.io/Various_Business/
+
+# REFERENCES AND CREDITS
+I finally made this project taking code from all the cources named above and Chat GPT aid as well.
+I used the following:
+https://jigsaw.w3.org/css-validator/validator
+https://validator.w3.org/
+https://favicon.io/
+https://fontawesome.com/kits
+Code credit to:
+https://github.com/Code-Institute-Solutions/love-running-v3/
+https://github.com/D0nni387/flex-demo 
+Chat GPT 
+
+
+Photos from Pexel.com with credits for the photos going to Heyho, Andreaedavis, Charlotte May, Ben Mack, Falling4utah, Jonathan Borba, Ksenia Chernaya, Oktay Koseoglu, Orlov Maria, Skylar Kang.
+
+
+
