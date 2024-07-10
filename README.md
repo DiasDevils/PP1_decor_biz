@@ -39,6 +39,11 @@ Sadly I lost the screenshots to show all the validation errors I had in the abou
 I have validated once more to show the validation in SCC and since I did not fix all the erros in css the validation shows the errors again.
 <img src ="images/11-validator CSS.jpg">
 
+And I have also tested for accessibility for all pages.
+<img src ="images/12-lighthouse.jpg">
+<img src ="images/14-lighthouse.jpg">
+<img src ="images/13-lighthouse.jpg">
+
 
 # BUGS
 I had a lof of difficulties, especially with resizing for each device. I am aware that the website size home page does not look great in terms of size and could look better but I am not sure how to make it better for a more enjoyable viewer experience.
