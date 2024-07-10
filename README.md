@@ -35,9 +35,9 @@ Overall the website is very easy to navigate. There are no hidden toggles and th
 
 I used the validators for both HTML and CSS.
 Sadly I lost the screenshots to show all the validation errors I had in the about html section and the my scc stylesheet. But I fixed and rechecked html.
-<img src="![alt text](image.png)">
+<img src="images/10-validator HTML.jpg">
 I have validated once more to show the validation in SCC and since I did not fix all the erros in css the validation shows the errors again.
-<img src ="![alt text](image-2.png)">
+<img src ="images/11-validator CSS.jpg">
 
 
 # BUGS
