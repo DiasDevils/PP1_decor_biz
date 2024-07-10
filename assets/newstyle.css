@@ -402,4 +402,17 @@ footer {
  #indexh1 {
   margin-top: 5rem;
   }
+
+  .maini {
+ padding: 0px 125px;
+  }
+
+  .container{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 30px;
+    box-sizing: border-box;
+    margin: -30px 0px -0px;
+  }
 }
