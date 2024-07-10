@@ -1,11 +1,12 @@
 # PP1_decor_biz
+# DECORATIOUS
 
 The PP1 decor business named Decoracious is a website for a business which offers decoration/re-decoration in the home service.
 
 Users will be able to see some of the examples of their work on the first "HOME" page. There are no prices because jobs vary therefore this is not a detail to be included in the website. The site is targeted so that people know of the business existence rather than to shop.
 
 Photos of how the website looks on production Mobile size.
-<img src="/images/1-mobile-screenshot.jpg">
+<img src="images/1-mobile-screenshot.jpg">
 <img src="images/7-screenshot - about- mobile-size.jpg">
 <img src="images/6-screenshot - contact- mobile-size.jpg">
 
@@ -20,4 +21,24 @@ Photos of how the website looks on website size.
 <img src="images/5-screenshot - contact- website-size.jpg">
 
 
+#FEATURES
 
+There are some features included in this site;
+1- Navigational bar consisting of Home, About and Contact sections
+This has a hover over function which reverse the colours so easy to see they are on or about to click on the sections and they also have an underline to show they are on the page.
+2- Social media network links at the bottom footer with thier icons for all the three pages.
+Both bars remain fixed during scrolling.
+
+Overall the website is very easy to navigate. There are no hidden toggles and the user does not have to figure out where to scroll or what to click to learn where to go.
+
+# TESTING 
+
+I used the validators for both HTML and CSS.
+Sadly I lost the screenshots to show all the validation errors I had in the about html section and the my scc stylesheet. But I fixed and rechecked html.
+<img src="![alt text](image.png)">
+I have validated once more to show the validation in SCC and since I did not fix all the erros in css the validation shows the errors again.
+<img src ="![alt text](image-2.png)">
+
+
+# BUGS
+I had a lof of bugs, especially with resizing. I am aware that the website size home pages does not look great but I am not sure how to edit it for better viewer experience.
