@@ -59,14 +59,13 @@ First I had tried applying the knowledge from the Love Running code
 # REFERENCES AND CREDITS
 I finally made this project taking code from all the cources named above and Chat GPT aid as well.
 I used the following:
- * https://jigsaw.w3.org/css-validator/validator
+* https://jigsaw.w3.org/css-validator/validator
 * https://validator.w3.org/
 * https://favicon.io/
 * https://fontawesome.com/kits
-Code credit to:
-* https://github.com/Code-Institute-Solutions/love-running-v3/
-* https://github.com/D0nni387/flex-demo 
-* Chat GPT 
+* code Credit to 1- https://github.com/Code-Institute-Solutions/love-running-v3/
+* 2- https://github.com/D0nni387/flex-demo 
+* 3- Chat GPT 
 
 
 Photos from Pexel.com with credits for the photos going to Heyho, Andreaedavis, Charlotte May, Ben Mack, Falling4utah, Jonathan Borba, Ksenia Chernaya, Oktay Koseoglu, Orlov Maria, Skylar Kang.
