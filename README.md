@@ -22,19 +22,19 @@ The landing home page, the about page and the contact pages. The home page shows
 Overall the website is very easy to navigate. I did not include a toggle as some people may not know how to use the toggle and may not know they need to click on it. Thus, there are no hidden links to click behind toggles therefore the user does not have to figure out where to scroll or what to click to learn where to go.
 
 ## Photos of how the website looks on production Mobile size.
-<img src="images/1-mobile-screenshot.jpg">
-<img src="images/7-screenshot - about- mobile-size.jpg">
-<img src="images/6-screenshot - contact- mobile-size.jpg">
+<img src="assets/images/1-mobile-screenshot.jpg">
+<img src="assets/images/7-screenshot - about- mobile-size.jpg">
+<img src="assets/images/6-screenshot - contact- mobile-size.jpg">
 
 ## Photos of how the webiste looks on Ipad size.
-<img src="images/2.2-ipad-screenshot.jpg">
-<img src="images/8-screenshot - about- ipad-size.jpg">
-<img src="images/9-screenshot - contact- ipad-size.jpg">
+<img src="assets/images/2.2-ipad-screenshot.jpg">
+<img src="assets/images/8-screenshot - about- ipad-size.jpg">
+<img src="assets/images/9-screenshot - contact- ipad-size.jpg">
 
 ## Photos of how the website looks on website size.
-<img src="images/3-website-screenshot.jpg">
-<img src="images/4-screenshot - about-website-size.jpg">
-<img src="images/5-screenshot - contact- website-size.jpg">
+<img src="assets/images/3-website-screenshot.jpg">
+<img src="assets/images/4-screenshot - about-website-size.jpg">
+<img src="assets/images/5-screenshot - contact- website-size.jpg">
 
 
 
@@ -48,18 +48,18 @@ I also tested that all pages open upon clicking the navbar.
 I used the validators for both HTML and CSS.
 Sadly I lost the screenshots to show all the validation errors I had in the about html section and the my scc stylesheet. But I fixed and rechecked html.
 
-<img src="images/10-validator HTML.jpg">
+<img src="assets/images/10-validator HTML.jpg">
 
 I have validated once more to show the validation in SCC and since I did not fix all the erros in css the validation shows the errors again below.
 
-<img src ="images/11-validator CSS.jpg">
+<img src ="assets/images/11-validator CSS.jpg">
 
 ### Test Three
 And I have also tested for accessibility for all pages.
 
-<img src ="images/12-lighthouse.jpg">
-<img src ="images/14-lighthouse.jpg">
-<img src ="images/13-lighthouse.jpg">
+<img src ="assets/images/12-lighthouse.jpg">
+<img src ="assets/images/14-lighthouse.jpg">
+<img src ="assets/images/13-lighthouse.jpg">
 
 
 # BUGS
