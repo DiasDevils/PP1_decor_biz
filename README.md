@@ -41,7 +41,7 @@ Overall the website is very easy to navigate. I did not include a toggle as some
 
 # TESTING 
 ### Test One
-I clicked each social media link manually to test they all open.
+I clicked each social media links manually to test they all open.
 I also tested that all pages open upon clicking the navbar.
 
 ### Test Two
@@ -88,8 +88,7 @@ I used the following:
 * 2- https://github.com/D0nni387/flex-demo 
 * 3- My mentor Richard Wells for the help during mentoring sessions.
 
-
-Photos from Pexel.com with credits for the photos going to Heyho, Andreaedavis, Charlotte May, Ben Mack, Falling4utah, Jonathan Borba, Ksenia Chernaya, Oktay Koseoglu, Orlov Maria, Skylar Kang.
+*Photos from Pexel.com with credits for the photos going to Heyho, Andreaedavis, Charlotte May, Ben Mack, Falling4utah, Jonathan Borba, Ksenia Chernaya, Oktay Koseoglu, Orlov Maria, Skylar Kang.
 
 
 
