@@ -23,6 +23,10 @@ The landing home page, the about page and the contact pages. The home page shows
 
 Overall the website is very easy to navigate. I did not include a toggle as some people may not know how to use the toggle and may not know they need to click on it. Thus, there are no hidden links to click behind toggles therefore the user does not have to figure out where to scroll or what to click to learn where to go.
 
+### Reverted Change
+I took out a change I made last minute. Due to the color being blue I decided to take out the link feature of the contact details not to spoil the look and feel of the site. In future when I figure out how to have both link and desirable color I will include.
+<img src="assets/images/collage.jpg">
+
 ## Photos of how the website looks on production Mobile size.
 <img src="assets/images/1-mobile-screenshot.jpg">
 <img src="assets/images/7-screenshot - about- mobile-size.jpg">
