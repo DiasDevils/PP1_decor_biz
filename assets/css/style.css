@@ -210,6 +210,10 @@ footer {
   text-decoration: underline rgb(134, 103, 4);
 }
 
+.contact-item>p {
+  color:rgb(134, 103, 4);
+}
+
 @media screen and (min-width: 768px) {
   nav ul li {
     font-size: 30px;
