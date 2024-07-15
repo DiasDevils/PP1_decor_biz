@@ -12,9 +12,13 @@ There are some features included in this site;
 
 ### 1- Navigational bar consisting of Home, About and Contact sections
 The navigational bar has a hover over function which reverses the colours so it is easy to see they are on or about to click on the sections and they also have an underline to show they are on the page.
+<img src="assets/images/navbar.jpg">
+<img src="assets/images/navbar2.jpg">
 
 ### 2- Social media network links at the bottom footer with thier icons for all the three pages.
 Both the navigational and footer bars remain fixed during scrolling. All links open on a separate page.
+
+<img src="assets/images/socialmedia.jpg">
 
 ### 3- The features show across all three pages. 
 The landing home page, the about page and the contact pages. The home page shows straight away their previous decoration works. The about page reads the story of the company and the last page is the contact pages where is it easy to locate and call the company.
