@@ -68,6 +68,7 @@ body {
 main h1 {
   text-align: center;
   margin: 20px 0;
+  font-size: 39px;  /*FIX*/
 }
 
 /* Container for rows of images and text*/
@@ -201,6 +202,7 @@ footer {
 #con>h1 {
   margin-bottom: 30px;
   margin-top: 10px;
+  font-size: 39px; /*FIX*/
 }
 
 .contact-item>h2 {
@@ -233,7 +235,8 @@ footer {
 
   /*CONTACT page */
   #con>h1 {
-    margin-bottom: 30px;
+    margin-bottom: 30px; 
+    font-size: 39px; /*FIX*/
   }
 
   .contact {
@@ -266,7 +269,7 @@ footer {
   }
 
   #con>h1 {
-    font-size: 39px;
+    font-size: 39px; /*FIX*/
   }
 }
 
@@ -345,6 +348,7 @@ footer {
   #con>h1 {
     margin-bottom: 30px;
     margin-top: 10px;
+    font-size: 39px; /*FIX*/
   }
 
   .thanku>h3 {
@@ -359,7 +363,8 @@ footer {
   #con>h1 {
     margin-bottom: 2px;
     margin-top: 10px;
-    font-size: 20px;
+    /* font-size: 20px; */
+    font-size: 30px;/*FIX*/
   }
 
   .thanku>h3 {
@@ -374,6 +379,7 @@ footer {
 
   #h1about {
     margin-top: 5rem;
+    font-size: 30px; /*FIX*/
   }
 
   .about-row {
@@ -382,6 +388,7 @@ footer {
 
   #indexh1 {
     margin-top: 5rem;
+    font-size: 30px; /*FIX*/
   }
 
   .maini {
