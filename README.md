@@ -14,7 +14,7 @@ There are some features included in this site;
 The navigational bar has a hover over function which reverses the colours so it is easy to see they are on or about to click on the sections and they also have an underline to show they are on the page.
 <img src="assets/images/navbar.jpg"><img src="assets/images/navbar2.jpg">
 
-### 2- Social media network links at the bottom footer with thier icons for all the three pages.
+### 2- Social media network links at the bottom footer with their icons for all the three pages.
 Both the navigational and footer bars remain fixed during scrolling. All links open on a separate page.
 <img src="assets/images/socialmedia.jpg">
 
