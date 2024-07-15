@@ -24,9 +24,11 @@ Photos of how the website looks on website size.
 # FEATURES
 
 There are some features included in this site;
-1 * Navigational bar consisting of Home, About and Contact sections
+
+* 1- Navigational bar consisting of Home, About and Contact sections
 This has a hover over function which reverse the colours so easy to see they are on or about to click on the sections and they also have an underline to show they are on the page.
-2 * Social media network links at the bottom footer with thier icons for all the three pages.
+
+* 2- Social media network links at the bottom footer with thier icons for all the three pages.
 Both bars remain fixed during scrolling.
 
 Overall the website is very easy to navigate. There are no hidden toggles and the user does not have to figure out where to scroll or what to click to learn where to go.
@@ -35,11 +37,15 @@ Overall the website is very easy to navigate. There are no hidden toggles and th
 
 I used the validators for both HTML and CSS.
 Sadly I lost the screenshots to show all the validation errors I had in the about html section and the my scc stylesheet. But I fixed and rechecked html.
+
 <img src="images/10-validator HTML.jpg">
+
 I have validated once more to show the validation in SCC and since I did not fix all the erros in css the validation shows the errors again.
+
 <img src ="images/11-validator CSS.jpg">
 
 And I have also tested for accessibility for all pages.
+
 <img src ="images/12-lighthouse.jpg">
 <img src ="images/14-lighthouse.jpg">
 <img src ="images/13-lighthouse.jpg">
@@ -63,7 +69,8 @@ I used the following:
 * https://validator.w3.org/
 * https://favicon.io/
 * https://fontawesome.com/kits
-* code Credit to 1- https://github.com/Code-Institute-Solutions/love-running-v3/
+* code Credit to ;
+* 1- https://github.com/Code-Institute-Solutions/love-running-v3/
 * 2- https://github.com/D0nni387/flex-demo 
 * 3- Chat GPT 
 
