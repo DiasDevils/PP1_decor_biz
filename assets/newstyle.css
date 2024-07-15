@@ -81,7 +81,6 @@ main h1 {
   /*new*/
 }
 
-
 /* Container for rows of images and text CHAT GPT */
 .container {
   display: flex;
@@ -415,4 +414,5 @@ footer {
     box-sizing: border-box;
     margin: -30px 0px -0px;
   }
+  
 }
