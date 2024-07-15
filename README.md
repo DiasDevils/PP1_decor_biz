@@ -47,7 +47,7 @@ And I have also tested for accessibility for all pages.
 
 # BUGS
 I had a lof of difficulties, especially with resizing for each device. I am aware that the website size home page does not look great in terms of size and could look better but I am not sure how to make it better for a more enjoyable viewer experience.
-Also the social media links open on the same site, instead of in a different tab.
+Also the social media links open on the same site, instead of in a different tab when using phone.
 
 I had struggled understanding concepts and working things out to the point that I had tried two other projects prior to this one.
 First I had tried applying the knowledge from the Love Running code
