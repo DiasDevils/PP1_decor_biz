@@ -17,7 +17,6 @@ The navigational bar has a hover over function which reverses the colours so it 
 
 ### 2- Social media network links at the bottom footer with thier icons for all the three pages.
 Both the navigational and footer bars remain fixed during scrolling. All links open on a separate page.
-
 <img src="assets/images/socialmedia.jpg">
 
 ### 3- The features show across all three pages. 
