@@ -24,9 +24,9 @@ Photos of how the website looks on website size.
 # FEATURES
 
 There are some features included in this site;
-* 1- Navigational bar consisting of Home, About and Contact sections
+1 * Navigational bar consisting of Home, About and Contact sections
 This has a hover over function which reverse the colours so easy to see they are on or about to click on the sections and they also have an underline to show they are on the page.
-* 2- Social media network links at the bottom footer with thier icons for all the three pages.
+2 * Social media network links at the bottom footer with thier icons for all the three pages.
 Both bars remain fixed during scrolling.
 
 Overall the website is very easy to navigate. There are no hidden toggles and the user does not have to figure out where to scroll or what to click to learn where to go.
