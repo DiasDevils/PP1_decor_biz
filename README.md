@@ -1,4 +1,6 @@
 ## First project PP1_decor_biz
+# Link to deployed First ever project:
+https://diasdevils.github.io/PP1_decor_biz/
 
 # DECORATIOUS
 
